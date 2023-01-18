@@ -1,0 +1,5 @@
+#+options: toc:nil
+* alfred-app-switcher
+@@html:<div align="center">@@
+@@html:<img src='https://raw.githubusercontent.com/jxq0/alfred-app-switcher/main/workflow/icon.png' width='80' height='80'>@@
+@@html:</div>@@
