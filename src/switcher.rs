@@ -1,5 +1,6 @@
 use crate::alfred::AlfredItem;
-use serde::{Deserialize, Serialize};
+use indexmap::IndexMap;
+use serde::{Deserialize, Serialize, Serializer};
 use std::cmp::Ordering;
 use std::collections::HashMap;
 use std::fs::{File, OpenOptions};
@@ -26,6 +27,17 @@ pub enum SwitcherError {
 pub struct RawSwitcher {
     current_profile: String,
     profiles: HashMap<String, HashMap<String, String>>,
+}
+
+fn ordered_map<S>(
+    value: &HashMap<String, String>,
+    serializer: S,
+) -> Result<S::Ok, S::Error>
+where
+    S: Serializer,
+{
+    let ordered: IndexMap<_, _> = value.iter().collect();
+    ordered.serialize(serializer)
 }
 
 #[derive(Clone)]
