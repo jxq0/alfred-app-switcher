@@ -23,7 +23,7 @@ pub enum SwitcherError {
 
 #[derive(Serialize, Deserialize)]
 #[serde(rename_all = "camelCase")]
-struct RawSwitcher {
+pub struct RawSwitcher {
     current_profile: String,
     profiles: HashMap<String, HashMap<String, String>>,
 }

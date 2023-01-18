@@ -2,11 +2,8 @@ use anyhow::Result;
 use clap::{Parser, Subcommand};
 use serde_json::json;
 
-mod switcher;
-use crate::switcher::Switcher;
-
-mod alfred;
-use crate::alfred::AlfredItem;
+use app_switcher::alfred::AlfredItem;
+use app_switcher::switcher::Switcher;
 
 #[derive(Parser)]
 #[command(name = "switcher", author = "jxq", version = "0.1")]
