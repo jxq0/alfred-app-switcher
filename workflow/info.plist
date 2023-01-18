@@ -459,7 +459,7 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>/Users/jxq/code/jxq_config/alfred/switcher-rust/target/release/switcher-rust -c $switcher_json detail $profile</string>
+				<string>./app-switcher -c $switcher_json detail $profile</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -527,7 +527,7 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>~/code/jxq_config/alfred/switcher-rust/target/release/switcher-rust -c $switcher_json list-profiles</string>
+				<string>./app-switcher -c $switcher_json list-profiles</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -556,7 +556,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>/Users/jxq/code/jxq_config/alfred/switcher-rust/target/release/switcher-rust -c $switcher_json change-profile $profile</string>
+				<string>./app-switcher -c $switcher_json change-profile $profile</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -1156,7 +1156,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>~/code/jxq_config/alfred/switcher-rust/target/release/switcher-rust -c $switcher_json get-app $1</string>
+				<string>./app-switcher -c $switcher_json get-app $1</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
