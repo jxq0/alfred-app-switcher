@@ -602,11 +602,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>122</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>8388608</integer>
+				<integer>0</integer>
 				<key>hotstring</key>
-				<string>F1</string>
+				<string></string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -635,11 +635,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>122</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>8912896</integer>
+				<integer>0</integer>
 				<key>hotstring</key>
-				<string>F1</string>
+				<string></string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -685,11 +685,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>120</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>8388608</integer>
+				<integer>0</integer>
 				<key>hotstring</key>
-				<string>F2</string>
+				<string></string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -718,11 +718,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>120</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>8912896</integer>
+				<integer>0</integer>
 				<key>hotstring</key>
-				<string>F2</string>
+				<string></string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -751,11 +751,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>99</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>8388608</integer>
+				<integer>0</integer>
 				<key>hotstring</key>
-				<string>F3</string>
+				<string></string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -801,11 +801,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>118</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>8912896</integer>
+				<integer>0</integer>
 				<key>hotstring</key>
-				<string>F4</string>
+				<string></string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -834,11 +834,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>118</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>8388608</integer>
+				<integer>0</integer>
 				<key>hotstring</key>
-				<string>F4</string>
+				<string></string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -1112,11 +1112,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>96</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>8388608</integer>
+				<integer>0</integer>
 				<key>hotstring</key>
-				<string>F5</string>
+				<string></string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -1185,11 +1185,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>97</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>8388608</integer>
+				<integer>0</integer>
 				<key>hotstring</key>
-				<string>F6</string>
+				<string></string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -1235,11 +1235,9 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>98</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>8388608</integer>
-				<key>hotstring</key>
-				<string>F7</string>
+				<integer>0</integer>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -1285,11 +1283,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>100</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>8388608</integer>
+				<integer>0</integer>
 				<key>hotstring</key>
-				<string>F8</string>
+				<string></string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -1352,11 +1350,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>101</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>8388608</integer>
+				<integer>0</integer>
 				<key>hotstring</key>
-				<string>F9</string>
+				<string></string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -1385,11 +1383,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>109</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>8388608</integer>
+				<integer>0</integer>
 				<key>hotstring</key>
-				<string>F10</string>
+				<string></string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -1452,11 +1450,11 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>111</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>8388608</integer>
+				<integer>0</integer>
 				<key>hotstring</key>
-				<string>F12</string>
+				<string></string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
