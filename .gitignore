@@ -10,4 +10,4 @@ Cargo.lock
 **/*.rs.bk
 
 /workflow/app-switcher
-/alfred-app-switcher.alfredworkflow
+/alfred-app-switcher*.alfredworkflow

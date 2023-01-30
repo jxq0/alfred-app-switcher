@@ -9,19 +9,18 @@ This [[https://www.alfredapp.com/workflows/][Alfred workflow]] let you switch be
 [[https://raw.githubusercontent.com/jxq0/alfred-app-switcher/main/images/screenshot.gif]]
 
 ** Usage
-
 *** Installation
-1. Download from latest release.
+1. Download from [[https://github.com/jxq0/alfred-app-switcher/releases/latest/][lastest release]].
 2. Double-click to import into Alfred.
 
 *** Configuration
 **** Workflow
-[[https://raw.githubusercontent.com/jxq0/alfred-app-switcher/main/images/workflow-config.png]]
-
 1. Setup the hotkeys.
 2. Setup apps.
 3. Change condition utility.
 4. Setup switcher.json.
+
+[[https://raw.githubusercontent.com/jxq0/alfred-app-switcher/main/images/workflow-config.png]]
 
 **** switcher.json
 Check the [[switcher.example.json][switcher.example.json]].
