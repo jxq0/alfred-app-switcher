@@ -24,3 +24,4 @@ This [[https://www.alfredapp.com/workflows/][Alfred workflow]] let you switch be
 4. Setup switcher.json.
 
 **** switcher.json
+Check the [[switcher.example.json][switcher.example.json]].

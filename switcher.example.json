@@ -1,0 +1,39 @@
+{
+  "currentProfile": "default",
+  "profiles": {
+    "default": {
+      "F1": "firefox",
+      "ALTF1": "chrome",
+      "F2": "emacs",
+      "F3": "iterm",
+      "ALTF4": "weworks",
+      "F5": "pdfexpert",
+      "F8": "ulysses",
+      "F9": "dash",
+      "F10": "wechat",
+      "F12": "qq"
+    },
+    "chrome": {
+      "ALTF1": "firefox",
+      "F1": "chrome"
+    },
+    "work": {
+      "ALTF1": "firefox",
+      "F1": "chrome",
+      "F5": "meeting",
+      "F4": "weworks"
+    },
+    "idea": {
+      "F4": "idea"
+    },
+    "ulysses": {
+      "F2": "ulysses",
+      "ALTF1": "firefox",
+      "F1": "chrome",
+      "ALTF2": "emacs"
+    },
+    "draw.io": {
+      "F5": "draw.io"
+    }
+  }
+}
