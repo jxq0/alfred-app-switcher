@@ -1,5 +1,9 @@
 #+options: toc:nil
-* alfred-app-switcher
 @@html:<div align="center">@@
 @@html:<img src='https://raw.githubusercontent.com/jxq0/alfred-app-switcher/main/workflow/icon.png' width='80' height='80'>@@
 @@html:</div>@@
+
+* alfred-app-switcher
+This [[https://www.alfredapp.com/workflows/][Alfred workflow]] let you switch between apps like lightning.
+
+[[https://raw.githubusercontent.com/jxq0/alfred-app-switcher/main/images/screenshot.gif]]
